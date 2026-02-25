@@ -14,7 +14,7 @@ const nextConfig: NextConfig = {
   // Optimization for Turbopack and build performance
   experimental: {
     optimizePackageImports: [
-      "chart.js",
+      "recharts",
     ],
   },
 };
