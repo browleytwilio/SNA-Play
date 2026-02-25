@@ -124,7 +124,7 @@ Keep it conversational and under 150 words.`;
           <div className="p-6">
             <h3 className="text-lg font-bold text-slate-900 mb-2">📨 Contextual Pitch Drafter</h3>
             <p className="text-sm text-slate-600 mb-4">
-              Generates a cold email leveraging the currently selected country's regulations, MNO readiness, and local
+              Generates a cold email leveraging the currently selected country{"'"} regulations, MNO readiness, and local
               fraud trends.
             </p>
 
@@ -178,15 +178,15 @@ Keep it conversational and under 150 words.`;
           <div className="p-6">
             <h3 className="text-lg font-bold text-slate-900 mb-2">🛡️ Live Objection Handler</h3>
             <p className="text-sm text-slate-600 mb-4">
-              Type in a prospect's objection and get a data-backed rebuttal using SNA value propositions.
+              Type in a prospect{"'"} objection and get a data-backed rebuttal using SNA value propositions.
             </p>
 
             <div className="mb-4">
-              <label className="block text-xs font-bold text-slate-700 uppercase mb-1">Prospect's Objection</label>
+              <label className="block text-xs font-bold text-slate-700 uppercase mb-1">Prospect{"'"} Objection</label>
               <textarea
                 value={objectionInput}
                 onChange={(e) => setObjectionInput(e.target.value)}
-                placeholder="e.g., 'WhatsApp is much cheaper for us than trying to implement this new SNA thing...'"
+                placeholder={'e.g., \'WhatsApp is much cheaper for us than trying to implement this new SNA thing...\''}
                 className="w-full h-20 bg-slate-50 border border-slate-200 rounded-lg p-3 text-sm focus:outline-none focus:border-purple-500 resize-none"
               />
             </div>

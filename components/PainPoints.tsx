@@ -60,7 +60,7 @@ export default function PainPoints() {
       <div className="mb-8">
         <h2 className="text-2xl font-bold text-slate-900">Pillar 2: Acute Pain Points Solved</h2>
         <p className="text-slate-600 mt-2">
-          Enterprises in APAC are facing a "Perfect Storm" of fraud, cost, and friction. SNA is the direct antidote.
+          Enterprises in APAC are facing a {"\"Perfect Storm\""} of fraud, cost, and friction. SNA is the direct antidote.
         </p>
       </div>
 

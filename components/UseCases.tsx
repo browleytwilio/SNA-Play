@@ -14,7 +14,7 @@ export default function UseCases() {
       <div className="mb-6">
         <h2 className="text-2xl font-bold text-slate-900">Pillar 1: Top SNA Use Cases</h2>
         <p className="text-slate-600 mt-2 max-w-3xl">
-          Beyond simple login, SNA transforms critical user journeys by removing the "OTP Gap." Explore the specific
+          Beyond simple login, SNA transforms critical user journeys by removing the {"\"OTP Gap.\""} Explore the specific
           workflows below to see how SNA replaces legacy SMS methods.
         </p>
       </div>

@@ -10,7 +10,7 @@ export default function ExecutiveSummary() {
             <span className="text-xs font-semibold text-blue-100">Live Research Data</span>
           </div>
           <h2 className="text-3xl font-bold mb-4 leading-tight">
-            The "Silent" Revolution in APAC Authentication
+            The {"\"Silent\""} Revolution in APAC Authentication
           </h2>
           <p className="text-slate-300 text-lg mb-6 max-w-xl">
             Traditional SMS OTP is failing due to toll fraud, latency, and poor UX. Silent Network Authentication (SNA) leverages direct carrier connections to verify users deterministically—without user input.
@@ -38,7 +38,7 @@ export default function ExecutiveSummary() {
             <li className="flex items-start">
               <span className="text-green-400 mr-2">✓</span>
               <span className="text-slate-300 text-sm">
-                Position SNA not just as "security" but as a <strong>Conversion Driver</strong>.
+                Position SNA not just as {"\"security\""} but as a <strong>Conversion Driver</strong>.
               </span>
             </li>
             <li className="flex items-start">
